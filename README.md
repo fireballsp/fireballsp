@@ -4,6 +4,7 @@
 
 - **Domains:** Cloud Architecture, Cloud Security, Governance, Hybrid Networking
 - **Cloud:** Azure • GCP • AWS
+- **IaC:** Terraform
 - **Strength:** Secure-by-design architectures grounded in operability and enterprise constraints
 
 ## Quick Highlights
