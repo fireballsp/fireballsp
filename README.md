@@ -27,7 +27,7 @@
 * **Cloud Platforms:** Microsoft Azure (Specialist), Google Cloud (GCP)
 * **Infrastructure as Code (IaC):** Terraform (Modular & Multi-environment)
 * **Security & Networking:** Cloudflare Zero Trust, IAM (PIM/JIT), Workload Identity Federation, Network Segmentation
-* **Governance:** Architecture Decision Records (ADR), C4 Model, Compliance Guardrails
+* **Governance:** Architecture Decision Records (ADR), Compliance Guardrails
 
 ## Professional Experience
 Senior Cloud Solution Architect with over 20 years of experience in IT infrastructure and security. Proven track record in technical leadership across the Americas and LATAM, specializing in:
@@ -46,7 +46,7 @@ Senior Cloud Solution Architect with over 20 years of experience in IT infrastru
 5. [Project 05 – Hybrid Networking & DNS Security Architecture](portfolio/project-05-hybrid-networking-dns-security.md)
 
 ## Reusable Architecture Diagrams
-- [Generic diagrams (Mermaid) you can reuse in docs and presentations](portfolio/diagrams.md)
+- [Generic diagrams](portfolio/diagrams.md)
 
 ## Honest Fit Summary (Cloud Architecture & Security roles)
 - [Detailed capability-to-role fit table](security-and-architecture-fit.md)
