@@ -51,5 +51,6 @@ Senior Cloud Solution Architect with over 20 years of experience in IT infrastru
 - [Detailed capability-to-role fit table](security-and-architecture-fit.md)
 
 ## Contact
-- **GitHub:** [https://github.com/fireballsp](https://github.com/fireballsp)
+- **E-mail:** saraivaf [at] protonmail [dot] com
+- **GitHub:** [@fireballsp](https://github.com/fireballsp)
 - **LinkedIn:** [https://www.linkedin.com/in/fernandosaraiva](https://www.linkedin.com/in/fernandosaraiva)
