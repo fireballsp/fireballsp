@@ -5,7 +5,7 @@
     - Microsoft Certified: Azure Administrator Associate
     - Microsoft Certified: Azure Security Engineer Associate
     - Microsoft Certified: Azure Solutions Architect Expert
-    - Professional Cloud Architect Certification
+    - GCP: Professional Cloud Architect Certification
 - **IaC:** Terraform
     - Terraform Associate (003)
 - **Strength:** Secure-by-design architectures grounded in operability and enterprise constraints
