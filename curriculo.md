@@ -21,8 +21,8 @@ CERTIFICAÇÕES RELEVANTES
 * Google Cloud Certified - Professional Cloud Architect
 * Microsoft Certified - Azure Solutions Architect Expert
 * Microsoft Certified - Azure Security Engineer Associate
+* Microsoft Certified - Azure Administrator Associate
 * HashiCorp Certified - Terraform Associate
-* Microsoft Certified - Azure Administrator Associate (AZ-104)
 * IBM Enterprise Design Thinking Practitioner
 * ITIL Foundation Certificate in IT Service Management
 
@@ -84,23 +84,12 @@ Projeto 2: Internal Automated Cloud Sandbox Request (GCP / Azure)
 * Contexto & Desafio: Necessidade de acelerar o time de engenharia e inovação 
   permitindo testes rápidos (PoCs), mas mantendo o controle de custos, segurança 
   e conformidade para evitar o surgimento de Shadow IT.
-* Liderança Técnica & Arquitetura: Desenhei uma solução de plataforma automatizada 
+* Liderança Técnica & Arquitetura: Desenhei uma solução de front-end  web,
   onde qualquer colaborador pode solicitar um ambiente temporário (Sandbox) isolado 
-  em nuvem (Azure Subscriptions ou GCP Projects) de forma self-service.
+  em nuvem (AWS ou Azure Subscriptions ou GCP Project) de forma self-service.
 * Resultados e Impacto: Redução drástica no tempo de entrega de ambientes para os 
   desenvolvedores, garantindo a aplicação automática de políticas de governança e 
   segurança da WPP desde o primeiro minuto de uso.
-
-Projeto 3: Global Office 365 Implementation (LATAM)
-* Contexto & Desafio: Unificar a colaboração e comunicação de múltiplos escritórios 
-  e agências regionais da WPP sob o ecossistema Office 365, gerenciando uma 
-  migração massiva de usuários e dados com zero impacto na operação diária.
-* Liderança Técnica & Operacional: Atuação como Gerente de Projetos Regional para 
-  a América Latina, coordenando o planejamento, mitigação de riscos de migração e 
-  alinhamento estratégico com os líderes locais de cada agência.
-* Resultados e Impacto: Entrega do projeto dentro do prazo e escopo estabelecidos, 
-  garantindo governança global de identidades e transformando a colaboração digital 
-  da holding na região.
 
 --------------------------------------------------------------------------------
 COMPETÊNCIAS TÉCNICAS
