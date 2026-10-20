@@ -1,0 +1,34 @@
+# Replace all placeholders before running Terraform. Do not put real values here.
+project_id      = "your-gcp-project-id"
+project_number  = "000000000000"
+location        = "us-east1"
+env_name        = "dev"
+
+smtp_password  = "REPLACE_WITH_SECRET"
+jwt_secret     = "REPLACE_WITH_SECRET"
+job_key        = "REPLACE_WITH_SECRET"
+admin_password = "REPLACE_WITH_SECRET"
+sql_password   = "REPLACE_WITH_SECRET"
+
+smtp_host = "smtp.example.com"
+smtp_user = "REPLACE_WITH_SMTP_USER"
+smtp_from = "no-reply@example.com"
+
+frontend_api_url   = "https://api.example.com"
+frontend_origin    = "https://app.example.com"
+frontend_url       = "https://app.example.com"
+worker_service_url = "https://worker.example.com"
+
+github_repository          = "your-org/your-repository"
+monitoring_service_account = "monitoring@your-gcp-project.iam.gserviceaccount.com"
+
+database_allowed_ips = [
+  {
+    name  = "operator"
+    value = "203.0.113.10/32"
+  }
+]
+subnet_cidr           = "10.10.0.0/24"
+function_bucket_name  = "your-unique-function-artifacts-bucket"
+function_source_archive = "path/to/external-function-source.zip"
+migration_image       = "LOCATION-docker.pkg.dev/PROJECT/REPOSITORY/IMAGE:TAG"
