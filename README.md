@@ -21,7 +21,7 @@ A personal project that combines reusable Terraform modules for Google Cloud wit
 - **Deployment automation:** pipelines for backend, frontend, and worker services, plus a database migration image.
 - **Keyless authentication:** GitHub-to-Google trust through Workload Identity Federation, with no long-lived service-account keys.
 
-[Read the project overview](case-studies/09-gcp-container-platform-and-cicd/README.md) · [Terraform guide](case-studies/01-gcp-container-platform-and-cicd/terraform/README.md)
+[Read the project overview](case-studies/01-gcp-container-platform-and-cicd/README.md) · [Terraform guide](case-studies/01-gcp-container-platform-and-cicd/terraform/README.md)
 
 ## Articles
 
